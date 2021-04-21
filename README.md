@@ -3,9 +3,12 @@ Deep Learning (DL) is an advanced technique of machine learning (ML) based on ne
 
 ## Configure and Manage Your Environment with Anaconda
 1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) on your computer.
-2. Install ```git``` for working with Github from your terminal window with command:  ``` conda install git ``` 
+2. Install ```git``` for working with Github from your terminal window with command:  
+   ``` 
+   conda install git 
+   ``` 
 3. Clone this repository to your local computer, and navigate to your downloaded folder with command:
-
-   ```git clone https://github.com/AndyTKH/Deep-Learning.git```
-   
-   ```cd Deep-Learning```
+   ```
+   git clone https://github.com/AndyTKH/Deep-Learning.git                                                          
+   cd Deep-Learning
+   ```
