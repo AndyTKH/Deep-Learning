@@ -38,7 +38,7 @@ Deep Learning (DL) is an advanced technique of machine learning (ML) based on ne
    ```
    pip install -r requirements.txt
    ```
-7. Now that you have all the required libraries to run my project, assuming your `deep-learning-project` environment is still activated, you may now navigate to the specific project directory to view my project from Jupyter Notebook, replace ```project_directory``` with the project name directory, for example replace ```project directory ``` with ```Image_Classification_Project``` for the Image Classification project directory, and subsequently, replace `Project_name` with ```Image_Classification``` to open the specific project in Jupyter Notebook browser:
+7. Now that you have all the required libraries to run my project, assuming your `deep-learning-project` environment is still activated, you may now navigate to the specific project directory to view my project from Jupyter Notebook, replace ```project_directory``` with the project name directory. To do this, replace ```project_directory ``` with ```Image_Classification_Project``` for the Image Classification project directory, and subsequently, replace `Project_name` with ```Image_Classification``` to open the specific project in Jupyter Notebook browser:
    ```
    cd
    cd Deep-Learning/project_directory
