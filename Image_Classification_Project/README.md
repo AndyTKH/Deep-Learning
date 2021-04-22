@@ -9,3 +9,17 @@ In this notebook, you can find an image classification algorithm that could be u
 ![Sample Dog Output](images/sample_dog_output.png)
 
 This project has pieced together a series of models to perform different tasks; for instance, the algorithm that detects humans in an image will be different from the CNN that infers dog breed. This algorithm can certainly be extended to detect your desired objects in an image. This CNN image classification project would be a good starting point to help understand how CNN can learn features from an image, and making good prediction of an unseen image. By changing the datasets, the CNN algorithm can be used for image recognition and OCR, object detection for self-driving cars, face recognition on social media, image analysis in healtcare, and image analysis on stock volatility in Financial market.  
+
+## Project Instructions
+
+### Instructions
+
+1. Open your terminal and clone the repository, then navigate to the the project folder.
+	```	
+    git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+		cd deep-learning-v2-pytorch/project-dog-classification
+	```
+2. Open the notebook to view the project. 
+  ```
+		jupyter notebook dog_app.ipynb
+	```
