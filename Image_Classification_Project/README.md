@@ -15,11 +15,11 @@ This project has pieced together a series of models to perform different tasks; 
 ### Instructions
 
 1. Open your terminal and clone the repository, then navigate to the the project folder.
-	```	
-    git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-		cd deep-learning-v2-pytorch/project-dog-classification
-	```
+```
+git clone https://github.com/AndyTKH/Deep-Learning.git                                                          
+cd Deep-Learning/Image_Classification_Project
+```
 2. Open the notebook to view the project. 
-  ```
-		jupyter notebook dog_app.ipynb
-	```
+```
+jupyter notebook Image_Classification.ipynb
+```
