@@ -25,3 +25,4 @@ cd Deep-Learning/Image_Classification_Project
 ```
 jupyter notebook Image_Classification.ipynb
 ```
+3. Simply close the terminal window to exit Jupyter Notebook. 
