@@ -22,3 +22,4 @@ cd Deep-Learning/Sentiment_Classification_Project
 ```
 jupyter notebook Sentiment_Classification.ipynb
 ```
+3. Simply close the terminal window to exit Jupyter Notebook.  
