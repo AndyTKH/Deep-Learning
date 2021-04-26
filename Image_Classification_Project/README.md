@@ -4,7 +4,7 @@
 
 ### Why We're Here 
 
-In this notebook, you can find an image classification algorithm that could be used as part of a mobile or web app. The code will accept any user-supplied image as input, if a dog is detected in the image, it will provide an estimate of the dog's breed.  If a human is detected, it will provide an estimate of the dog breed that is most resembling.  The image below displays potential sample output of this project. 
+In this notebook, you can find an image classification algorithm that could be used as part of a mobile or web app. The code will accept any user-supplied image as input, if a dog is detected in the image, it will provide an estimate of the dog's breed.  If a human is detected, it will provide an estimate of the dog breed that is most resembling.  The images below display the potential sample output of this project. 
 
 ![Sample Dog Output](images/sample_dog_output.png)     ![Sample Human Output](images/Sample_human_output.png)  
 
