@@ -1,7 +1,7 @@
 # Recurrent Neural Networks (RNN)
 ## Project: Stock prediction using RNN
 
-In this notebook, we're going to train RNN to do **time-series prediction**. Given some set of input data, it should be able to generate a prediction for the next time step! In this project, Tesla stock prices data are used for our model prediction.
+RNNs have a kind of built-in memory that are really useful for tasks that are time or sequence dependent. For example, RNNs are used in tasks like text genearation for which order of letters and words in a sentence is really important. In this notebook, we're going to train RNN to do **time-series prediction** of Tesla stock price. Given some set of stock prices data, it should be able to generate a prediction for the next time step!
 
 <img src='assets/time_prediction.png' width=40% />
 
